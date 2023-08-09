@@ -1,0 +1,67 @@
+.nav-right ul li {
+    font-size: 0.8rem;
+    padding: 10px 0px;
+}
+.nav-left {
+    padding-top: 4px;
+}
+.nav-left h1 {
+    font-size: 0.9rem;
+}
+.nav-left h1 span {
+    font-size: 1rem;
+}
+
+
+.nav-right ul {
+    margin-right: 0px;
+}
+.center-main{
+    flex-direction: column;
+}
+.left-center-main {
+    width: 80%;
+    margin-bottom: 20px;
+}
+.left-center-main h1 {
+    font-size: 1.5rem;
+}
+.left-center-main p {
+    font-size: 0.8rem;
+}
+.right-center-main {
+    width: 80%;
+}
+
+
+#mycard {
+    width: 90%;
+    flex-direction: column-reverse;
+}
+
+.card-left {
+    width: 100%;
+    font-size: 0.8rem;
+  
+}
+.card-right {
+    width: 70%;
+    height: 70%;
+}
+.card-right img {
+    width: 150px;
+    height: 150px;
+   
+}
+
+
+#temp-info {
+    width: 360px;
+    margin: 35px auto;
+}
+.input-part input[type="text"] {
+    width: 275px;
+}
+.input-part {
+    width: 370px;
+}
